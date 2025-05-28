@@ -3595,7 +3595,7 @@ expo-modules-autolinking@2.1.10:
     require-from-string "^2.0.2"
     resolve-from "^5.0.0"
 
-expo-modules-core@2.3.13:
+expo-modules-core@2.3.13, expo-modules-core@~2.3.13:
   version "2.3.13"
   resolved "https://registry.npmjs.org/expo-modules-core/-/expo-modules-core-2.3.13.tgz"
   integrity sha512-vmKHv7tEo2wUQoYDV6grhsLsQfD3DUnew5Up3yNnOE1gHGQE+zhV1SBYqaPMPB12OvpyD1mlfzGhu6r9PODnng==
